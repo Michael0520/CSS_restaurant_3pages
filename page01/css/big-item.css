@@ -1,0 +1,44 @@
+.big-item {
+    background: url('https://i.pinimg.com/564x/e2/6a/96/e26a960e48581fb68c9969e2f32276ad.jpg');
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: middle;
+}
+
+.text {
+    margin: auto;
+    text-align: center;
+    max-width: 1100px;
+    overflow: auto;
+    padding: 0 20px;
+    font-weight: bold;
+    padding-top: 200px;
+    color: white;
+}
+
+.text h2 {
+    font-size: 60px;
+    line-height: 1.2em;
+}
+
+.text p {
+    padding-bottom: 20px;
+    line-height: 1.7em;
+}
+
+.text a {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    background: #333;
+    padding: 13px 20px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.text a:hover {
+    background: #D0104C;
+}

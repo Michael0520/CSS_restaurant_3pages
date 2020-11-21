@@ -1,0 +1,51 @@
+.contact-form {
+    margin: auto;
+    max-width: 1100px;
+    overflow: auto;
+    padding: 0 20px;
+}
+
+.contact {
+    padding: 30px;
+}
+
+.contact h2 {
+    font-size: 4em;
+    line-height: 1.2;
+    margin: 20px 0 20px;
+    color: #D0104C;
+}
+
+.group {
+    padding: 20px 0 20px;
+}
+
+.group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+.sumbit {
+    background: #333;
+    width: 100px;
+    padding: 10px 0 10px;
+    border-radius: 10px;
+}
+
+.sumbit a {
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.group input:hover {
+    border: 1px solid #D0104C;
+}
+
+.sumbit:hover {
+    background-color: #D0104C;
+}

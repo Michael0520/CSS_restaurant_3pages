@@ -1,0 +1,21 @@
+.three-item {
+    display: flex;
+    height: 100%;
+    text-align: center;
+}
+
+.three-item img {
+    height: 100px;
+    margin: 20px;
+}
+
+.three-item h3 {
+    font-size: 2em;
+}
+
+.three-item p {
+    line-height: 2;
+    margin: 20px 40px 20px;
+}
+
+.service-red {}

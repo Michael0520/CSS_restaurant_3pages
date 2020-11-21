@@ -1,0 +1,41 @@
+.mid-container {
+    background-image: url('https://i.pinimg.com/564x/ec/84/f0/ec84f05ef5d5b336b16ec725038c05c0.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mid-container h2 {
+    padding: 50px;
+    text-align: center;
+    font-size: 3em;
+}
+
+.mid-section {
+    padding: 0 20px;
+    max-width: 1100px;
+    margin: auto;
+    overflow: auto;
+}
+
+.person-item {
+    background-color: #333;
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    padding: 10px;
+    margin: 50px;
+    border-radius: 20px;
+}
+
+.person-item img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin: 20px;
+}
+
+.person-item p {
+    margin: 20px 0px 20px;
+    color: white;
+}
